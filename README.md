@@ -1,5 +1,4 @@
-Hi, I’m Zak. 
-Welcome to my website.
+Hi, I’m Zak.
 
 I:
 - Pro Tools
@@ -11,7 +10,7 @@ I:
 - Bake
 
 Social media, websites, and digital identities are synthetic representations of our vibrant selves. Wouldn’t it be bizarre for one’s online persona to be more stimulating than them in-person? 
-Yeah, that’d be weird.
+Yeah, that’d be weird...
 
 What if the opposite were true? What if a website (digital business card, portfolio, etc.) gave you the minimum necessary information and prioritized connecting with someone directly?
 
