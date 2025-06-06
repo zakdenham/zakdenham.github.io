@@ -6,6 +6,7 @@ plugins:
 # File rules
 exclude:
   - .gitignore
+  - README.md
   - LICENSE
   - .github/
 
