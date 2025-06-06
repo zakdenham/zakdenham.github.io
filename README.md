@@ -1,4 +1,4 @@
-## zakdenham.github.io
+## [zakdenham.github.io](https://zakdenham.github.io/)
 
 [![CI](https://github.com/zakdenham/zakdenham.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/zakdenham/zakdenham.github.io/actions/workflows/ci.yml)
 
