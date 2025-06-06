@@ -1,0 +1,18 @@
+# Dependencies
+plugins:
+  - jekyll-sitemap
+  - jekyll-email-protect
+
+# File rules
+exclude:
+  - .gitignore
+  - LICENSE
+  - .github/
+
+# Metadata
+title: Zak Denham
+description: Zak Denham
+author: Zak Denham
+favicon: /favicon.ico
+timezone: America/New_York
+email: zakdenham@gmail.com
