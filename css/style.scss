@@ -1,0 +1,14 @@
+---
+# front matter comment to ensure jekyll properly reads file
+---
+
+body {
+    padding: 3rem 1rem 3rem 1rem;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #dd5a5a;
+    text-decoration-style: dotted;
+}
