@@ -7,7 +7,7 @@ layout: default
 <p class="lead">Hi, I'm Zak.</p>
 
 I:
-- Pro Toolsxxx
+- Pro Tools
 - Produce
 - Educate
 - Advocate
