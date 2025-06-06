@@ -8,11 +8,13 @@ layout: default
 
 I:
 - Pro Tools
+- Advocate
 - Produce
 - Educate
-- Advocate
 - Coffee
+- Guitar
 - Travel
+- Audio
 - Bake
 
 Social media, websites, and digital identities are synthetic representations of our vibrant selves. Wouldn't it be bizarre for one's online persona to be more stimulating than them in-person? Yeah, that'd be weird...
