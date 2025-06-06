@@ -2,8 +2,18 @@
 # front matter comment to ensure jekyll properly reads file
 ---
 
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
     padding: 3rem 1rem 3rem 1rem;
+
+    font-family: "Special Elite", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
 a:link,
