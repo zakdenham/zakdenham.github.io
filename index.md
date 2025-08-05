@@ -17,11 +17,11 @@ I:
 - Audio
 - Bake
 
-Social media, websites, and digital identities are synthetic representations of our vibrant selves. Wouldn't it be bizarre for one's online persona to be more stimulating than them in-person? Yeah, that'd be weird...
+Social media, websites, and digital identities are synthetic representations of our vibrant selves. Wouldn't it be bizarre for one's online persona outshines who they are in real life?
 
-What if the opposite were true? What if a website (digital business card, portfolio, etc.) gave you the minimum necessary information and prioritized connecting with someone directly?
+What if the opposite were true? What if a website gave just enough info and encouraged real connection instead?
 
-If you've found this site, I'd bet it'd be better for us to connect face-to-face, or at least over a call/Zoom/etc. I prefer to share my skills, personality, and perspectives with you in a more meaningful --- dare I say --- more respectful way. Catered photos and bullshit verbiage trying to convince you of my/my work's worth is something I'd rather not fuck with.
+If you’ve made it this far, let’s skip the smoke and mirrors. I’d rather connect face-to-face— or at least over a call/Zoom/etc. I prefer to share my skills, personality, and perspectives with you in a more meaningful --- dare I say --- more respectful way. Catered photos and bullshit verbiage trying to convince you of my/my work's worth is something I'd rather not fuck with.
 
 Want to connect?
 
