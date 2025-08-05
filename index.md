@@ -28,5 +28,5 @@ Want to connect?
 {% capture email_link %}mailto:{{ site.email | encode_email }}{% endcapture %}
 Contact me [here]({{ email_link }}).
 
-Or, if you wait long enough at your local specialty coffee shop (e.g. [Crema](https://crema-coffee.com)), I'll be there in all black.
+Or, if you wait long enough at your local specialty coffee shop (e.g. [Crema](https://crema-coffee.com)), I'll be there in a black shirt.
 
