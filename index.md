@@ -21,7 +21,7 @@ Social media, websites, and digital identities are synthetic representations of 
 
 What if a website gave just enough info and encouraged real connection instead?
 
-If you’ve made it this far, let’s skip the smoke and mirrors. I’d rather connect face-to-face or at least over a call/Zoom/etc. I prefer to share my skills, personality, and perspectives with you in a more meaningful --- dare I say --- more respectful way.
+If you’ve made it this far and would like to skip the bullshit, let's get to know each other face-to-face or at least over a call/Zoom/etc.
 
 Want to connect?
 
